@@ -1,0 +1,6 @@
+main.c:49:6:SysClockConfig	16	static
+main.c:74:6:TIM9Config	4	static
+main.c:93:6:GPIO_Init	4	static
+main.c:102:6:TIM1_BRK_TIM9_IRQHandler	8	static
+main.c:111:6:delay_ms	16	static
+main.c:125:5:main	8	static
